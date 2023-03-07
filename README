@@ -1,0 +1,5 @@
+tinyhttpd是一个超轻量级的web服务器项目
+
+这里修改了一点点代码，编译之后直接在Ubuntu上运行
+
+原版用的Perl写的cgi，因为不熟悉Perl，这里改成了用C语言写cgi。
